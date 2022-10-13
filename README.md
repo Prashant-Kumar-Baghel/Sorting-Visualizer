@@ -13,7 +13,7 @@ A web application showcasing the inner workings of sorting algorithms.
 - Merge Sort
 - Quick Sort
 
- [Check Out The Sorting Visualizer](http://127.0.0.1:5500/index.html)
+ [Check out the sorting visualizer](https://prashant-kumar-baghel.github.io/Sorting-Visualizer/)
  
  This is built using HTML,CSS,Javascript.
  ## Feature:
