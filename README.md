@@ -12,6 +12,8 @@ A web application showcasing the inner workings of sorting algorithms.
 - Insertion Sort
 - Merge Sort
 - Quick Sort
+
+ [Check Out The Sorting Visualizer](http://127.0.0.1:5500/index.html)
  
  This is built using HTML,CSS,Javascript.
  ## Feature:
